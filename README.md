@@ -1,3 +1,25 @@
+# Information
+
+This repo forked from the original [CS186](https://cs186berkeley.net/) course repo. 
+
+The original repo can be found [here](https://github.com/berkeley-cs186/sp25-rookiedb).
+
+> **Tips:** The link is valid for Spring 2025. Maybe you will find the repo invalid in the future.
+
+**Important things you should know:**
+
+- PLEASE DO NOT USE THIS REPO FOR YOUR OWN ASSIGNMENTS.
+  - This repo's complements are not guaranteed, just pass local tests.
+  - "Copy" other's code may destroy your ACADEMIC INTEGRITY.
+- This project's Achievement:
+  - [&#x2714;] Project 0
+  - [&#x2716;] Project 1
+  - [&#x2716;] Project 2
+  - [&#x2716;] Project 3
+  - [&#x2716;] Project 4
+  - [&#x2716;] Project 5
+  - [&#x2716;] Project 6
+
 # RookieDB
 
 ![The official unofficial mascot of the class projects](images/derpydb-small.jpg)
